@@ -34,7 +34,7 @@ Required input files (the four files above, plus):
 5. Pre‑reactive ligand structure file (must be named ligand.mol2)
 
 Run command: Same as for non‑covalent prediction.
------------------------------------
+```
 #DOX_config Example 
 CovDOX = True/False  # Whether to use covalent DOX restraints
 Initial_Stage = 0    # Initial stage number
@@ -49,3 +49,4 @@ COV_ChainID = A     # Covalent Chain ID
 COV_Resname = CYS   # Covalent Residue Name
 COV_Resnum = 96    # Covalent Residue Number
 Fast_DOX = True   # Whether to use fast docking mode(FastDOX will caculate 5 poses with XO method)
+```
