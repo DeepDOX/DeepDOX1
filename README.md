@@ -30,8 +30,8 @@ python Test_all.py
 ```
 To Use the DeepDOX1 model, run the following command:
 ```bash
-cd ./Example
-python Predict.py
+cd ./src
+python Predict.py [model].pt [Datadir] [True/False]
 ```
 ## Citation
 
