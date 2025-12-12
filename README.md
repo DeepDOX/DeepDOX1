@@ -28,10 +28,13 @@ To test the DeepDOX1 model, run the following command:
 cd ./src
 python Test_all.py
 ```
-
-
+To Use the DeepDOX1 model, run the following command:
+```bash
+cd ./Example
+python Predict.py
+```
 ## Citation
 
 
 ## Contact
-For any questions or issues, please contact : lz785463435@gmail.com
+For any questions or issues, please contact : 
