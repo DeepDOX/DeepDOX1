@@ -1,5 +1,3 @@
-
-
 ## Introduction
 This repository contains the implementation of the DeepDOX1 model for predicting protein-ligand binding affinities. The model leverages deep learning techniques to analyze molecular structures and predict their interactions.
 
@@ -34,7 +32,7 @@ cd ./src
 python Predict.py [model].pt [Datadir] [True/False]
 ```
 ## Citation
-
+> Zheng Liu, Hao Sun, Yuliang Wang, Yanliang Ren, Li Rao, Zeyue Huang, Hongxuan Cao, Xiuqi Hu, Xinyue Zhu, Meng Li, Jian Wan; DeepDOX1: A Dual-Drive Framework Integrating Deep Learning and First-Principles Quantum Chemistry for Drug–Protein Affinity Prediction. *JACS Au* 22 June 2026; 6 (6): 3190–3202. https://doi.org/10.1021/jacsau.6c00177
 
 ## Contact
 For any questions or issues, please contact : 
